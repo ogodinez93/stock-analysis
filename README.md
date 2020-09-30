@@ -10,8 +10,8 @@
 
 The stock performance results for either method is identical. The time factor for processing the results is clearly improved via the array method. It shows an improvement of 60% faster results.
 
-![alt text](resources/VBA_Challenge_2018.png)
-![alt text](resources/VBA_Challenge_Refactored.png)
+![alt text](resource/VBA_Challenge_2018.png)
+![alt text](resource/VBA_Challenge_Refactored.png)
 
 ## Summary
 
